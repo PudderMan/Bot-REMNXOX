@@ -1,6 +1,6 @@
 // bot.js
 
-// Ładowanie zmiennych środowiskowych
+// Ładowanie zmiennych środowiskowyc
 require('dotenv').config(); 
 
 const { Client, GatewayIntentBits, Collection, REST, Routes } = require('discord.js');
